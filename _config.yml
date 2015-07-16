@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://gnomeson.github.io
+title: Gnomics
+tagline: This and that
+description: whatever
+paginate: 5
